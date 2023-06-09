@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        User user = new User("Bobur",2);
-        System.out.println(user);
+        NewUser newUser = new NewUser("Bobur", 15, new Laptop("Asus", 900, "2020-01-22"));
+        System.out.println(newUser);
     }
 }

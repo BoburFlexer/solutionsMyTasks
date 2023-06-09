@@ -20,3 +20,5 @@ public class User {
                 "age=" + age;
     }
 }
+//        User user = new User("Bobur",2);
+//        System.out.println(user);
